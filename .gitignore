@@ -1,0 +1,5 @@
+# Exclude .pdf files
+*.pdf
+
+# Exclude compressed files
+*.tar.gz
